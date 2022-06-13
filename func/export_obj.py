@@ -3,8 +3,7 @@ from airium import Airium
 def export_chart_to_html(fig, height, filename, describtion_list, insight_list):
     fig.update_layout(
         title_text='',
-        margin=dict(l=50, r=50, t=50, b=50, pad=4),
-        height=height
+        margin=dict(l=50, r=50, t=50, b=50, pad=4)
     )
 
     a = Airium()
@@ -30,8 +29,12 @@ def export_chart_to_html(fig, height, filename, describtion_list, insight_list):
                     with a.li():
                         a(item)
             with a.div():
-                
-                a(fig.to_html(full_html=False, include_plotlyjs='cdn'))
+                a(fig.to_html(
+                    full_html=False, 
+                    include_plotlyjs='cdn',
+                    default_height=height if height else '100%',
+                    div_id='plotly_chart'
+                ))
     # Casting the file to a string to extract the value
     html = str(a)
     # Casting the file to UTF-8 encoded bytes:
