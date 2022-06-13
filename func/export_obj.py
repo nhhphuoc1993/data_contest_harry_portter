@@ -1,6 +1,23 @@
 from airium import Airium
 
-def export_chart_to_html(fig, height, filename, describtion_list, insight_list):
+def render_list_html(a: Airium, imput_list):
+    with a.ul():
+        for item in imput_list:
+            with a.li():
+                if type(item) is dict:
+                    # Get first key-value pair of the dictionary
+                    first_pair = list(item.items())[0]
+                    a(first_pair[0])
+                    value = first_pair[1]
+                    if type(value) is list:
+                        render_list_html(a, value)
+                    else:
+                        a(value)
+                else:
+                    a(item)
+    return a
+
+def export_chart_to_html(fig, height, path_to_filename, chart_title, describtion_list, insight_list):
     fig.update_layout(
         title_text='',
         margin=dict(l=50, r=50, t=50, b=50, pad=4)
@@ -12,22 +29,16 @@ def export_chart_to_html(fig, height, filename, describtion_list, insight_list):
     with a.html(lang="en"):
         with a.head():
             a.meta(charset="utf-8")
-            a.title(_t="Example: How to use Airium library")
+            a.title(_t=chart_title)
         with a.body():
             with a.h1(id="chart_name"):
-                a("Hello Finxters")
+                a(chart_title)
             with a.h2(id="chart_discussion"):
                 a("Description")
-            with a.ul():
-                for item in describtion_list:
-                    with a.li():
-                        a(item)
+            render_list_html(a, describtion_list)
             with a.h2(id="chart_insight"):
                 a("Insight")
-            with a.ul():
-                for item in insight_list:
-                    with a.li():
-                        a(item)
+            render_list_html(a, insight_list)
             with a.div():
                 a(fig.to_html(
                     full_html=False, 
@@ -39,5 +50,5 @@ def export_chart_to_html(fig, height, filename, describtion_list, insight_list):
     html = str(a)
     # Casting the file to UTF-8 encoded bytes:
     # html_bytes = bytes(a)
-    with open(filename, 'wb') as f:
+    with open(path_to_filename, 'wb') as f:
         f.write(bytes(html, encoding='utf8'))
