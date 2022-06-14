@@ -1,139 +1,139 @@
-,Dialogue ID,Chapter ID,Place ID,Character ID,Dialogue,Spell ID,Incantation,Spell Name,Effect,Light,Chapter Name,Movie ID,Movie Chapter
-0,226,10,42,3,"Are you sure that's a real spell? Well, it's not very good, is it? Of course I've only tried a few simple spells myself, and they've all worked for me. For example...  Oculus Reparo.  That's better, isn't it? Holy Cricket, you're Harry Potter. I'm Hermione Granger...and you are...?",37,Oculus Reparo,Oculus Reparo,Repairs glasses,,Ron and Hermione,1,10
-1,393,16,59,3,"Oh, move over!  Alohomora.  Get in.",4,Alohomora,Unlocking Charm,Unlocks target,Blue,Three-Headed Sentinel,1,16
-2,394,16,59,2,Alohomora?,4,Alohomora,Unlocking Charm,Unlocks target,Blue,Three-Headed Sentinel,1,16
-3,421,17,26,59,Good. And enunciate. Wingardium Leviosa. Off you go then.,61,Wingardium Leviosa,Levitation Charm,Makes objects fly,,Facts and Feathers,1,17
-4,426,17,26,3,Wingardium Leviosa.,61,Wingardium Leviosa,Levitation Charm,Makes objects fly,,Facts and Feathers,1,17
-5,457,18,34,2,Wingardium Leviosa!  Cool.,61,Wingardium Leviosa,Levitation Charm,Makes objects fly,,Mountain Troll,1,18
-6,739,27,39,3,"Neville, I'm really, really sorry about this... Petrificus Totalus.",40,Petrificus Totalus,Full Body-Bind Curse,Temporary Paralysis,White,Through the Trapdoor,1,27
-7,746,27,59,3,Alohomora.,4,Alohomora,Unlocking Charm,Unlocks target,Blue,Through the Trapdoor,1,27
-8,778,27,64,3,"Um Devil's Snare, Devil's Scare,  it's deadly fun...but will sulk in the sun! That's it! Devil's Snare hates sunlight!  Lumos Solem!",33,Lumos Solem,Lumos Solem Spell,Produces sunlight,Bright yellow,Through the Trapdoor,1,27
-9,791,27,64,2,"Alohomora!  Well, it was worth a try.",4,Alohomora,Unlocking Charm,Unlocks target,Blue,Through the Trapdoor,1,27
-10,1047,39,1,3,What did you do to your glasses? Oculus reparo.,37,Oculus Reparo,Oculus Reparo,Repairs glasses,,To Diagon Alley,2,5
-11,1178,45,30,28,Peskipiksi pesternomi!,39,Peskipiksi Pesternomi,Peskipiksi Pesternomi,Nothing (supposedly captures pixies),,Gilderoy Lockhart,2,11
-12,1184,45,30,3,Immobulus!,23,Immobulus,Freezing Charm,Stops movement and actions of the target,Blue,Gilderoy Lockhart,2,11
-13,1276,48,61,7,"Could I have your attention, please? Right. Now, today, we will be transforming animals into water goblets. Like so. One, two, three, Vera verto. Now it's your turn. Well, who would like to go first? Ah! Mr. Weasley. One, two, three. Vera verto.â",59,Vera Verto,Vera Verto,Transforms animals into water goblets,Crystal clear,About the Chamber,2,15
-14,1277,48,61,2,Ahem. Vera verto!,59,Vera Verto,Vera Verto,Transforms animals into water goblets,Crystal clear,About the Chamber,2,15
-15,1321,49,52,3,Finite incantatem!,21,Finite,General Counter-Spell,Terminates all spell effects,Red,Rogue Bludger,2,16
-16,1327,50,52,28,"Oh, poor boy doesn't know what he's saying. Now, this won't hurt a bit. Brackium emendo!",9,Brackium Emendo,Brackium Emendo,Mends bones,Blue,No Longer Safe,2,17
-17,1383,51,36,6,Expelliarmus!,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Dueling Club,2,18
-18,1400,51,36,1,Rictusempra!,53,Rictusempra,Tickling Charm,Tickles and weakens,Silver,Dueling Club,2,18
-19,1402,52,36,12,Serpensortia!,57,Serpensortia,Snake Summons Spell,Conjures snake,White,A Parselmouth,2,19
-20,1404,52,36,28,"Allow me, Professor Snape. Alarte ascendare!",3,Alarte Ascendare,Launch an object up into the air,Rockets target upward,Red,A Parselmouth,2,19
-21,1406,52,36,6,Vipera evanesca.,60,Vipera Evanesca,Snake-Vanishing Spell,Vanishes snakes,Black smoke,A Parselmouth,2,19
-22,1460,54,46,1,Wingardium leviosa. Here they come.,61,Wingardium Leviosa,Levitation Charm,Makes objects fly,,Polyjuice Potion,2,21
-23,1560,57,60,24,Cistem aperio! Arania exumai!,10,Cistem Aperio,Cistem Aperio,Opens chests,White,Tom Riddle,2,25
-24,1560,57,60,24,Cistem aperio! Arania exumai!,10,Cistem Aperio,Cistem Aperio,Opens chests,White,Tom Riddle,2,25
-25,1658,61,35,1,Let's go! Arania exumai! Go!,5,Arania Exumai,Spider repelling spell,Repels spiders,Blue,Spider Attack,2,31
-26,1662,61,35,1,Arania exumai!,5,Arania Exumai,Spider repelling spell,Repels spiders,Blue,Spider Attack,2,31
-27,1740,64,25,28,"The adventure ends here, boys. But don't fret. The world will know our story. How I was too late to save the girl. How you two tragically lost your minds at the sight of her mangled body. So, you first, Mr. Potter. Say good-bye to your memories. Obliviate!",36,Obliviate,Memory Charm,Erases memories,Green,Backfire,2,34
-28,1872,71,8,1,Lumos Maxima. Lumos Maxima. Lumos Maxima. Lumos Maxima. Lumos Maxima!,32,Lumos Maxima,Lumos Maxima,Produces bright light,White,Under Covers Prologue,3,1
-29,2127,80,30,11,"So terrifying, yes, yes, yes... Luckily, a very simple charm exists to repel a boggart. Let's practice it now. Without wands, please. After me. Riddikulus!",54,Riddikulus,Boggart-Banishing Spell,Turns a Boggart into something amusing,,Boggart in the Wardrobe,3,10
-30,2128,80,30,136,Riddikulus!,54,Riddikulus,Boggart-Banishing Spell,Turns a Boggart into something amusing,,Boggart in the Wardrobe,3,10
-31,2129,80,30,11,Very good. A little louder and very clear. Listen: Riddikulus!,54,Riddikulus,Boggart-Banishing Spell,Turns a Boggart into something amusing,,Boggart in the Wardrobe,3,10
-32,2130,80,30,136,Riddikulus!,54,Riddikulus,Boggart-Banishing Spell,Turns a Boggart into something amusing,,Boggart in the Wardrobe,3,10
-33,2141,80,30,10,Riddikulus!,54,Riddikulus,Boggart-Banishing Spell,Turns a Boggart into something amusing,,Boggart in the Wardrobe,3,10
-34,2143,80,30,2,Riddikulus!,54,Riddikulus,Boggart-Banishing Spell,Turns a Boggart into something amusing,,Boggart in the Wardrobe,3,10
-35,2145,80,30,78,Riddikulus!,54,Riddikulus,Boggart-Banishing Spell,Turns a Boggart into something amusing,,Boggart in the Wardrobe,3,10
-36,2146,80,30,11,"And next! Step up, step up! Wonderful, wonderful! Here! Riddikulus! Right. Sorry about that. That's enough for today. Collect your books from the back. That's the end of the lesson. Thank you! Sorry! Sorry, you can have too much of a good thing.",54,Riddikulus,Boggart-Banishing Spell,Turns a Boggart into something amusing,,Boggart in the Wardrobe,3,10
-37,2210,84,51,4,Arresto momentum!,6,Arresto Momentum,Slowing Charm,Slows or stops target's velocity,,Grim Defeat,3,14
-38,2337,88,30,11,"Can you do this? Yes. Very well. Close your eyes. Concentrate. Explore your past. Do you have a memory? Allow it to fill you up. Lose yourself within it. Then speak the incantation, Expecto Patronum.",18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,The Patronus,3,18
-39,2338,88,30,1,Expecto Patronum.,18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,The Patronus,3,18
-40,2340,88,30,1,Expecto Patronum! Expecto... Expecto... Expect...,18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,The Patronus,3,18
-41,2348,88,30,1,Just do it. Expecto Patronum! Expecto Patronum!,18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,The Patronus,3,18
-42,2383,89,28,1,Mischief managed. Nox.,35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,Seeing the Impossible,3,19
-43,2494,93,20,11,"Expelliarmus! Well, well, Sirius. Looking rather ragged, aren't we? Finally, the flesh reflects the madness within.",19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Sirius Black,3,23
-44,2512,94,20,6,Expelliarmus! Vengeance is sweet. How I hoped I'd be the one to catch you.,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Peter Pettigrew,3,24
-45,2526,94,20,1,Expelliarmus!,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Peter Pettigrew,3,24
-46,2580,95,67,1,Expelliarmus!,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Friends Become Foes,3,25
-47,2591,96,37,1,Sirius! No. Sirius! Expecto Patronum!,18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,The Dementor's Kiss,3,26
-48,2683,99,67,11,Immobulus!,23,Immobulus,Freezing Charm,Stops movement and actions of the target,Blue,Saving Lives,3,29
-49,2710,100,37,1,Expecto Patronum!,18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,"Truly Seen, Truly Free",3,30
-50,2714,100,37,3,Bombarda!,8,Bombarda,Exploding Charm,Small explosion,,"Truly Seen, Truly Free",3,30
-51,3481,130,39,4,Priori Incantatem. You saw your parents that night didn't you? They reappeared.,43,Priori Incantatem,Reverse Spell,Shows the previous spells cast by a wand,Gold,Parting Ways,4,28
-52,3517,131,11,1,Lumos!,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,Dudley Demented,5,1
-53,3518,131,11,1,"""Expecto Patronum!'",18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,Dudley Demented,5,1
-54,3521,131,11,1,"""Expecto Patronum! '",18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,Dudley Demented,5,1
-55,3537,132,8,1,Lumos!,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,The Advance Guard,5,2
-56,3573,132,8,11,"""Expecto Patronum!'",18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,The Advance Guard,5,2
-57,3989,144,55,50,Impedimenta!,24,Impedimenta,Impediment Jinx,Hinders movement,Turquoise,Dumbledore's Army,5,14
-58,4035,145,55,10,Expelliarmus!,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Hagrid's Tale,5,15
-59,4038,145,55,10,Expelliarmus!,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Hagrid's Tale,5,15
-60,4203,149,49,18,Expelliarmus!,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Snape's Worst Memory,5,19
-61,4204,149,49,42,Impedimenta!,24,Impedimenta,Impediment Jinx,Hinders movement,Turquoise,Snape's Worst Memory,5,19
-62,4212,149,49,42,Levicorpus!,28,Levicorpus,Levicorpus,Suspends people by the ankles,Green,Snape's Worst Memory,5,19
-63,4216,149,49,18,Locomotor mortis!,30,Locomotor Mortis,Leg-Locker Curse,Sticks legs together,Purple,Snape's Worst Memory,5,19
-64,4297,150,36,14,Accio brooms!,1,Accio,Summoning Charm,Summons an object,,Out of the Fire,5,20
-65,4298,150,36,19,Accio brooms!,1,Accio,Summoning Charm,Summons an object,,Out of the Fire,5,20
-66,4306,151,30,15,Accio wand!,1,Accio,Summoning Charm,Summons an object,,Fight and Flight,5,21
-67,4339,151,35,15,Incarcerous!,26,Incarcerous,Incarcerous Spell,Binds target in ropes,,Fight and Flight,5,21
-68,4348,151,35,10,Expelliarmus!,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Fight and Flight,5,21
-69,4391,152,70,1,Alohomora!,4,Alohomora,Unlocking Charm,Unlocks target,Blue,The Department of Mysteries,5,22
-70,4435,152,70,3,Colloportus!,11,Colloportus,Locking Spell,Locks doors,,The Department of Mysteries,5,22
-71,4442,152,70,10,Expelliarmus!,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,The Department of Mysteries,5,22
-72,4445,152,70,129,Impedimenta!,24,Impedimenta,Impediment Jinx,Hinders movement,Turquoise,The Department of Mysteries,5,22
-73,4474,152,70,22,Crucio!,13,Crucio,Cruciatus Curse,Excruciating pain,Red,The Department of Mysteries,5,22
-74,4487,153,70,1,Protego!,44,Protego,Shield Charm,Reflects spells and blocks physical forces,,Beyond the Veil,5,23
-75,4498,154,70,1,Crucio!,13,Crucio,Cruciatus Curse,Excruciating pain,Red,Side by Side,5,24
-76,4499,154,70,22,Crucio!,13,Crucio,Cruciatus Curse,Excruciating pain,Red,Side by Side,5,24
-77,4512,155,70,9,Avada Kedavra!,7,Avada Kedavra,Killing Curse,Instantaneous death,Green,Wizards Duel,5,25
-78,4534,155,70,4,Portus.,42,Portus,Portus,Turns object into Portkey,Blue,Wizards Duel,5,25
-79,4700,160,18,4,Lumos...,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,Horace Slughorn,6,3
-80,4847,162,42,12,"Didn't mummy ever tell you it's bad manners to eavesdrop, Potter? Petrificus Totalus!",40,Petrificus Totalus,Full Body-Bind Curse,Temporary Paralysis,White,That's For My Father,6,5
-81,4872,162,42,25,Episkey.,17,Episkey,Episkey,Heals minor injuries,,That's For My Father,6,5
-82,5177,170,39,3,Oppugno!,38,Oppugno,Oppugno Jinx,Assaults target with directed object(s),,How It Feels,6,13
-83,5422,176,56,1,Sectumsempra!,56,Sectumsempra,Sectumsempra,Lacerates target,White,Sectumsempra,6,19
-84,5595,180,73,1,Accio Horcrux!,1,Accio,Summoning Charm,Summons an object,,Horcruxes,6,23
-85,5625,180,73,4,Aguamenti.,2,Aguamenti,Water-Making Spell,Conjures water,Icy blue,Horcruxes,6,23
-86,5674,181,23,6,Avada Kedavra!,7,Avada Kedavra,Killing Curse,Instantaneous death,Green,The Astronomy Tower,6,24
-87,5682,182,40,1,Impedimenta!,24,Impedimenta,Impediment Jinx,Hinders movement,Turquoise,Flight of the Prince,6,25
-88,5686,182,40,1,Sectumsempra!,56,Sectumsempra,Sectumsempra,Lacerates target,White,Flight of the Prince,6,25
-89,5729,184,17,3,Obliviate.,36,Obliviate,Memory Charm,Erases memories,Green,Dark Times,7,1
-90,5766,185,13,9,Avada Kedavra!,7,Avada Kedavra,Killing Curse,Instantaneous death,Green,Dark Lord Ascending,7,2
-91,6020,191,7,1,Stupefy!,58,Stupefy,Stunning Spell,Knocks out target,Red,Place to Hide,7,8
-92,6021,191,7,3,Petrificus Totalus! Go.,40,Petrificus Totalus,Full Body-Bind Curse,Temporary Paralysis,White,Place to Hide,7,8
-93,6031,191,7,3,Obliviate.,36,Obliviate,Memory Charm,Erases memories,Green,Place to Hide,7,8
-94,6045,191,7,3,Homenum revelio.,22,Homenum Revelio,Human Presence Revealing Spell,Reveals human presence,,Place to Hide,7,8
-95,6048,191,7,1,Lumos.,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,Place to Hide,7,8
-96,6098,193,7,3,Expelliarmus!,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Theft of a Thief,7,10
-97,6153,194,70,3,Try Finite Incantatem.  Of course if something's gone wrong with an Atmospheric Charm --,21,Finite,General Counter-Spell,Terminates all spell effects,Red,Ministry Interior,7,11
-98,6156,194,70,2,"Finite Incantatem, okay.  And if that doesn't work...?",21,Finite,General Counter-Spell,Terminates all spell effects,Red,Ministry Interior,7,11
-99,6166,194,70,1,Accio locket.,1,Accio,Summoning Charm,Summons an object,,Ministry Interior,7,11
-100,6197,194,70,1,"You're lying.  And one mustn't tell lies, Dolores... Stupefy!",58,Stupefy,Stunning Spell,Knocks out target,Red,Ministry Interior,7,11
-101,6198,194,70,1,Expecto PATRONUM!,18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,Ministry Interior,7,11
-102,6199,194,70,3,Relashio!,48,Relashio,Revulsion Jinx,Forces target to let go,Purple,Ministry Interior,7,11
-103,6212,195,74,1,Accio Dittany.,1,Accio,Summoning Charm,Summons an object,,Forest Fugitives,7,12
-104,6220,195,74,3,Salvio Hexia... Protego Totalum...,55,Salvio hexia,Salvio hexia,Hex deflection,Haze,Forest Fugitives,7,12
-105,6220,195,74,3,Salvio Hexia... Protego Totalum...,55,Salvio hexia,Salvio hexia,Hex deflection,Haze,Forest Fugitives,7,12
-106,6224,195,74,3,Repello Muggletum... Muffliato...,34,Muffliato,Muffliato Charm,Conceals sound,,Forest Fugitives,7,12
-107,6224,195,74,3,Repello Muggletum... Muffliato...,34,Muffliato,Muffliato Charm,Conceals sound,,Forest Fugitives,7,12
-108,6246,195,74,1,Dissendium!,15,Dissendium,Dissendium,Reveals secret passages,,Forest Fugitives,7,12
-109,6247,195,74,3,Incendio!,27,Incendio,Fire-Making Spell,Conjures flames,Orange,Forest Fugitives,7,12
-110,6248,195,74,1,Expulso!,20,Expulso,Expulso Curse,Blows things up,Blue,Forest Fugitives,7,12
-111,6249,195,74,3,Confringo!,12,Confringo,Blasting Curse,Explosion,Fiery Orange,Forest Fugitives,7,12
-112,6352,198,74,1,Salvio Hexia... Protego Totalum...,55,Salvio hexia,Salvio hexia,Hex deflection,Haze,Clues Revealed,7,15
-113,6352,198,74,1,Salvio Hexia... Protego Totalum...,55,Salvio hexia,Salvio hexia,Hex deflection,Haze,Clues Revealed,7,15
-114,6382,199,9,3,Lumos.,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,Godric's Hollow,7,16
-115,6412,200,9,1,Lumos.,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,Bathilda's Secret,7,17
-116,6417,200,9,3,Confringo!,12,Confringo,Blasting Curse,Explosion,Fiery Orange,Bathilda's Secret,7,17
-117,6459,201,68,1,Lumos! Accio Sword.,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,Sword of Gryffindor,7,18
-118,6459,201,68,1,Lumos! Accio Sword.,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,Sword of Gryffindor,7,18
-119,6460,201,68,1,Diffindo.,14,Diffindo,Severing Charm,Cuts objects,Light green,Sword of Gryffindor,7,18
-120,6538,202,68,1,Engorgio.,16,Engorgio,Engorgement Charm,Causes swelling,Icy blue,Lighting the Way Back,7,19
-121,6540,202,68,1,Reducio!,47,Reducio,Shrinking Charm,Shrinks target,Purple,Lighting the Way Back,7,19
-122,6720,207,13,1,Stupefy.,58,Stupefy,Stunning Spell,Knocks out target,Red,Dobby Has No Master,7,24
-123,6722,207,13,1,Stupefy!,58,Stupefy,Stunning Spell,Knocks out target,Red,Dobby Has No Master,7,24
-124,6850,212,2,1,Imperio.,25,Imperio,Imperius Curse,Total control over the victim,,Gringotts,8,4
-125,6869,212,2,2,Imperio!,25,Imperio,Imperius Curse,Total control over the victim,,Gringotts,8,4
-126,6880,212,2,1,Lumos !,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,Gringotts,8,4
-127,6881,212,2,2,Lumos !,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,Gringotts,8,4
-128,6882,212,2,3,Lumos !,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,Gringotts,8,4
-129,6906,214,2,3,Relashio!,48,Relashio,Revulsion Jinx,Forces target to let go,Purple,Exit the Dragon,8,6
-130,6940,215,21,1,Expecto Patronum!,18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,Final Hiding Place,8,7
-131,7048,219,66,166,Protego Maxima... Finato Duri... Repello Inimicum...,45,Protego Maxima,Protego Maxima,Summons a large protective barrier,White,Duty To Our School,8,11
-132,7048,219,66,166,Protego Maxima... Finato Duri... Repello Inimicum...,45,Protego Maxima,Protego Maxima,Summons a large protective barrier,White,Duty To Our School,8,11
-133,7160,223,55,99,Avada Kedavra!,7,Avada Kedavra,Killing Curse,Instantaneous death,Green,Fiendfyre,8,15
-134,7161,223,55,1,Expelliarmus!,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Fiendfyre,8,15
-135,7273,225,48,6,Expecto Patronum!,18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,Your Mother's Eyes,8,17
-136,7396,231,66,1,Confringo!,12,Confringo,Blasting Curse,Explosion,Fiery Orange,Not Over,8,23
-137,7406,232,66,1,Confringo!,12,Confringo,Blasting Curse,Explosion,Fiery Orange,The Wand's Choice,8,24
+,Dialogue ID,Chapter ID,Place ID,Character ID,Dialogue,Casting-spell count,Spell ID,Incantation,Spell Name,Effect,Light,Chapter Name,Movie ID,Movie Chapter
+0,226,10,42,3,"Are you sure that's a real spell? Well, it's not very good, is it? Of course I've only tried a few simple spells myself, and they've all worked for me. For example...  Oculus Reparo.  That's better, isn't it? Holy Cricket, you're Harry Potter. I'm Hermione Granger...and you are...?",1,37,Oculus Reparo,Oculus Reparo,Repairs glasses,,Ron and Hermione,1,10
+1,393,16,59,3,"Oh, move over!  Alohomora.  Get in.",1,4,Alohomora,Unlocking Charm,Unlocks target,Blue,Three-Headed Sentinel,1,16
+2,394,16,59,2,Alohomora?,1,4,Alohomora,Unlocking Charm,Unlocks target,Blue,Three-Headed Sentinel,1,16
+3,421,17,26,59,Good. And enunciate. Wingardium Leviosa. Off you go then.,1,61,Wingardium Leviosa,Levitation Charm,Makes objects fly,,Facts and Feathers,1,17
+4,426,17,26,3,Wingardium Leviosa.,1,61,Wingardium Leviosa,Levitation Charm,Makes objects fly,,Facts and Feathers,1,17
+5,457,18,34,2,Wingardium Leviosa!  Cool.,1,61,Wingardium Leviosa,Levitation Charm,Makes objects fly,,Mountain Troll,1,18
+6,739,27,39,3,"Neville, I'm really, really sorry about this... Petrificus Totalus.",1,40,Petrificus Totalus,Full Body-Bind Curse,Temporary Paralysis,White,Through the Trapdoor,1,27
+7,746,27,59,3,Alohomora.,1,4,Alohomora,Unlocking Charm,Unlocks target,Blue,Through the Trapdoor,1,27
+8,778,27,64,3,"Um Devil's Snare, Devil's Scare,  it's deadly fun...but will sulk in the sun! That's it! Devil's Snare hates sunlight!  Lumos Solem!",1,33,Lumos Solem,Lumos Solem Spell,Produces sunlight,Bright yellow,Through the Trapdoor,1,27
+9,791,27,64,2,"Alohomora!  Well, it was worth a try.",1,4,Alohomora,Unlocking Charm,Unlocks target,Blue,Through the Trapdoor,1,27
+10,1047,39,1,3,What did you do to your glasses? Oculus reparo.,1,37,Oculus Reparo,Oculus Reparo,Repairs glasses,,To Diagon Alley,2,5
+11,1178,45,30,28,Peskipiksi pesternomi!,1,39,Peskipiksi Pesternomi,Peskipiksi Pesternomi,Nothing (supposedly captures pixies),,Gilderoy Lockhart,2,11
+12,1184,45,30,3,Immobulus!,1,23,Immobulus,Freezing Charm,Stops movement and actions of the target,Blue,Gilderoy Lockhart,2,11
+13,1276,48,61,7,"Could I have your attention, please? Right. Now, today, we will be transforming animals into water goblets. Like so. One, two, three, Vera verto. Now it's your turn. Well, who would like to go first? Ah! Mr. Weasley. One, two, three. Vera verto.â",2,59,Vera Verto,Vera Verto,Transforms animals into water goblets,Crystal clear,About the Chamber,2,15
+14,1277,48,61,2,Ahem. Vera verto!,1,59,Vera Verto,Vera Verto,Transforms animals into water goblets,Crystal clear,About the Chamber,2,15
+15,1321,49,52,3,Finite incantatem!,1,21,Finite,General Counter-Spell,Terminates all spell effects,Red,Rogue Bludger,2,16
+16,1327,50,52,28,"Oh, poor boy doesn't know what he's saying. Now, this won't hurt a bit. Brackium emendo!",1,9,Brackium Emendo,Brackium Emendo,Mends bones,Blue,No Longer Safe,2,17
+17,1383,51,36,6,Expelliarmus!,1,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Dueling Club,2,18
+18,1400,51,36,1,Rictusempra!,1,53,Rictusempra,Tickling Charm,Tickles and weakens,Silver,Dueling Club,2,18
+19,1402,52,36,12,Serpensortia!,1,57,Serpensortia,Snake Summons Spell,Conjures snake,White,A Parselmouth,2,19
+20,1404,52,36,28,"Allow me, Professor Snape. Alarte ascendare!",1,3,Alarte Ascendare,Launch an object up into the air,Rockets target upward,Red,A Parselmouth,2,19
+21,1406,52,36,6,Vipera evanesca.,1,60,Vipera Evanesca,Snake-Vanishing Spell,Vanishes snakes,Black smoke,A Parselmouth,2,19
+22,1460,54,46,1,Wingardium leviosa. Here they come.,1,61,Wingardium Leviosa,Levitation Charm,Makes objects fly,,Polyjuice Potion,2,21
+23,1560,57,60,24,Cistem aperio! Arania exumai!,1,10,Cistem Aperio,Cistem Aperio,Opens chests,White,Tom Riddle,2,25
+24,1560,57,60,24,Cistem aperio! Arania exumai!,1,10,Cistem Aperio,Cistem Aperio,Opens chests,White,Tom Riddle,2,25
+25,1658,61,35,1,Let's go! Arania exumai! Go!,1,5,Arania Exumai,Spider repelling spell,Repels spiders,Blue,Spider Attack,2,31
+26,1662,61,35,1,Arania exumai!,1,5,Arania Exumai,Spider repelling spell,Repels spiders,Blue,Spider Attack,2,31
+27,1740,64,25,28,"The adventure ends here, boys. But don't fret. The world will know our story. How I was too late to save the girl. How you two tragically lost your minds at the sight of her mangled body. So, you first, Mr. Potter. Say good-bye to your memories. Obliviate!",1,36,Obliviate,Memory Charm,Erases memories,Green,Backfire,2,34
+28,1872,71,8,1,Lumos Maxima. Lumos Maxima. Lumos Maxima. Lumos Maxima. Lumos Maxima!,5,32,Lumos Maxima,Lumos Maxima,Produces bright light,White,Under Covers Prologue,3,1
+29,2127,80,30,11,"So terrifying, yes, yes, yes... Luckily, a very simple charm exists to repel a boggart. Let's practice it now. Without wands, please. After me. Riddikulus!",1,54,Riddikulus,Boggart-Banishing Spell,Turns a Boggart into something amusing,,Boggart in the Wardrobe,3,10
+30,2128,80,30,136,Riddikulus!,1,54,Riddikulus,Boggart-Banishing Spell,Turns a Boggart into something amusing,,Boggart in the Wardrobe,3,10
+31,2129,80,30,11,Very good. A little louder and very clear. Listen: Riddikulus!,1,54,Riddikulus,Boggart-Banishing Spell,Turns a Boggart into something amusing,,Boggart in the Wardrobe,3,10
+32,2130,80,30,136,Riddikulus!,1,54,Riddikulus,Boggart-Banishing Spell,Turns a Boggart into something amusing,,Boggart in the Wardrobe,3,10
+33,2141,80,30,10,Riddikulus!,1,54,Riddikulus,Boggart-Banishing Spell,Turns a Boggart into something amusing,,Boggart in the Wardrobe,3,10
+34,2143,80,30,2,Riddikulus!,1,54,Riddikulus,Boggart-Banishing Spell,Turns a Boggart into something amusing,,Boggart in the Wardrobe,3,10
+35,2145,80,30,78,Riddikulus!,1,54,Riddikulus,Boggart-Banishing Spell,Turns a Boggart into something amusing,,Boggart in the Wardrobe,3,10
+36,2146,80,30,11,"And next! Step up, step up! Wonderful, wonderful! Here! Riddikulus! Right. Sorry about that. That's enough for today. Collect your books from the back. That's the end of the lesson. Thank you! Sorry! Sorry, you can have too much of a good thing.",1,54,Riddikulus,Boggart-Banishing Spell,Turns a Boggart into something amusing,,Boggart in the Wardrobe,3,10
+37,2210,84,51,4,Arresto momentum!,1,6,Arresto Momentum,Slowing Charm,Slows or stops target's velocity,,Grim Defeat,3,14
+38,2337,88,30,11,"Can you do this? Yes. Very well. Close your eyes. Concentrate. Explore your past. Do you have a memory? Allow it to fill you up. Lose yourself within it. Then speak the incantation, Expecto Patronum.",1,18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,The Patronus,3,18
+39,2338,88,30,1,Expecto Patronum.,1,18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,The Patronus,3,18
+40,2340,88,30,1,Expecto Patronum! Expecto... Expecto... Expect...,1,18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,The Patronus,3,18
+41,2348,88,30,1,Just do it. Expecto Patronum! Expecto Patronum!,2,18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,The Patronus,3,18
+42,2383,89,28,1,Mischief managed. Nox.,1,35,Nox,Wand-Extinguishing Charm,Extinguishes wandlight,,Seeing the Impossible,3,19
+43,2494,93,20,11,"Expelliarmus! Well, well, Sirius. Looking rather ragged, aren't we? Finally, the flesh reflects the madness within.",1,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Sirius Black,3,23
+44,2512,94,20,6,Expelliarmus! Vengeance is sweet. How I hoped I'd be the one to catch you.,1,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Peter Pettigrew,3,24
+45,2526,94,20,1,Expelliarmus!,1,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Peter Pettigrew,3,24
+46,2580,95,67,1,Expelliarmus!,1,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Friends Become Foes,3,25
+47,2591,96,37,1,Sirius! No. Sirius! Expecto Patronum!,1,18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,The Dementor's Kiss,3,26
+48,2683,99,67,11,Immobulus!,1,23,Immobulus,Freezing Charm,Stops movement and actions of the target,Blue,Saving Lives,3,29
+49,2710,100,37,1,Expecto Patronum!,1,18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,"Truly Seen, Truly Free",3,30
+50,2714,100,37,3,Bombarda!,1,8,Bombarda,Exploding Charm,Small explosion,,"Truly Seen, Truly Free",3,30
+51,3481,130,39,4,Priori Incantatem. You saw your parents that night didn't you? They reappeared.,1,43,Priori Incantatem,Reverse Spell,Shows the previous spells cast by a wand,Gold,Parting Ways,4,28
+52,3517,131,11,1,Lumos!,1,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,Dudley Demented,5,1
+53,3518,131,11,1,"""Expecto Patronum!'",1,18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,Dudley Demented,5,1
+54,3521,131,11,1,"""Expecto Patronum! '",1,18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,Dudley Demented,5,1
+55,3537,132,8,1,Lumos!,1,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,The Advance Guard,5,2
+56,3573,132,8,11,"""Expecto Patronum!'",1,18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,The Advance Guard,5,2
+57,3989,144,55,50,Impedimenta!,1,24,Impedimenta,Impediment Jinx,Hinders movement,Turquoise,Dumbledore's Army,5,14
+58,4035,145,55,10,Expelliarmus!,1,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Hagrid's Tale,5,15
+59,4038,145,55,10,Expelliarmus!,1,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Hagrid's Tale,5,15
+60,4203,149,49,18,Expelliarmus!,1,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Snape's Worst Memory,5,19
+61,4204,149,49,42,Impedimenta!,1,24,Impedimenta,Impediment Jinx,Hinders movement,Turquoise,Snape's Worst Memory,5,19
+62,4212,149,49,42,Levicorpus!,1,28,Levicorpus,Levicorpus,Suspends people by the ankles,Green,Snape's Worst Memory,5,19
+63,4216,149,49,18,Locomotor mortis!,1,30,Locomotor Mortis,Leg-Locker Curse,Sticks legs together,Purple,Snape's Worst Memory,5,19
+64,4297,150,36,14,Accio brooms!,1,1,Accio,Summoning Charm,Summons an object,,Out of the Fire,5,20
+65,4298,150,36,19,Accio brooms!,1,1,Accio,Summoning Charm,Summons an object,,Out of the Fire,5,20
+66,4306,151,30,15,Accio wand!,1,1,Accio,Summoning Charm,Summons an object,,Fight and Flight,5,21
+67,4339,151,35,15,Incarcerous!,1,26,Incarcerous,Incarcerous Spell,Binds target in ropes,,Fight and Flight,5,21
+68,4348,151,35,10,Expelliarmus!,1,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Fight and Flight,5,21
+69,4391,152,70,1,Alohomora!,1,4,Alohomora,Unlocking Charm,Unlocks target,Blue,The Department of Mysteries,5,22
+70,4435,152,70,3,Colloportus!,1,11,Colloportus,Locking Spell,Locks doors,,The Department of Mysteries,5,22
+71,4442,152,70,10,Expelliarmus!,1,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,The Department of Mysteries,5,22
+72,4445,152,70,129,Impedimenta!,1,24,Impedimenta,Impediment Jinx,Hinders movement,Turquoise,The Department of Mysteries,5,22
+73,4474,152,70,22,Crucio!,1,13,Crucio,Cruciatus Curse,Excruciating pain,Red,The Department of Mysteries,5,22
+74,4487,153,70,1,Protego!,1,44,Protego,Shield Charm,Reflects spells and blocks physical forces,,Beyond the Veil,5,23
+75,4498,154,70,1,Crucio!,1,13,Crucio,Cruciatus Curse,Excruciating pain,Red,Side by Side,5,24
+76,4499,154,70,22,Crucio!,1,13,Crucio,Cruciatus Curse,Excruciating pain,Red,Side by Side,5,24
+77,4512,155,70,9,Avada Kedavra!,1,7,Avada Kedavra,Killing Curse,Instantaneous death,Green,Wizards Duel,5,25
+78,4534,155,70,4,Portus.,1,42,Portus,Portus,Turns object into Portkey,Blue,Wizards Duel,5,25
+79,4700,160,18,4,Lumos...,1,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,Horace Slughorn,6,3
+80,4847,162,42,12,"Didn't mummy ever tell you it's bad manners to eavesdrop, Potter? Petrificus Totalus!",1,40,Petrificus Totalus,Full Body-Bind Curse,Temporary Paralysis,White,That's For My Father,6,5
+81,4872,162,42,25,Episkey.,1,17,Episkey,Episkey,Heals minor injuries,,That's For My Father,6,5
+82,5177,170,39,3,Oppugno!,1,38,Oppugno,Oppugno Jinx,Assaults target with directed object(s),,How It Feels,6,13
+83,5422,176,56,1,Sectumsempra!,1,56,Sectumsempra,Sectumsempra,Lacerates target,White,Sectumsempra,6,19
+84,5595,180,73,1,Accio Horcrux!,1,1,Accio,Summoning Charm,Summons an object,,Horcruxes,6,23
+85,5625,180,73,4,Aguamenti.,1,2,Aguamenti,Water-Making Spell,Conjures water,Icy blue,Horcruxes,6,23
+86,5674,181,23,6,Avada Kedavra!,1,7,Avada Kedavra,Killing Curse,Instantaneous death,Green,The Astronomy Tower,6,24
+87,5682,182,40,1,Impedimenta!,1,24,Impedimenta,Impediment Jinx,Hinders movement,Turquoise,Flight of the Prince,6,25
+88,5686,182,40,1,Sectumsempra!,1,56,Sectumsempra,Sectumsempra,Lacerates target,White,Flight of the Prince,6,25
+89,5729,184,17,3,Obliviate.,1,36,Obliviate,Memory Charm,Erases memories,Green,Dark Times,7,1
+90,5766,185,13,9,Avada Kedavra!,1,7,Avada Kedavra,Killing Curse,Instantaneous death,Green,Dark Lord Ascending,7,2
+91,6020,191,7,1,Stupefy!,1,58,Stupefy,Stunning Spell,Knocks out target,Red,Place to Hide,7,8
+92,6021,191,7,3,Petrificus Totalus! Go.,1,40,Petrificus Totalus,Full Body-Bind Curse,Temporary Paralysis,White,Place to Hide,7,8
+93,6031,191,7,3,Obliviate.,1,36,Obliviate,Memory Charm,Erases memories,Green,Place to Hide,7,8
+94,6045,191,7,3,Homenum revelio.,1,22,Homenum Revelio,Human Presence Revealing Spell,Reveals human presence,,Place to Hide,7,8
+95,6048,191,7,1,Lumos.,1,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,Place to Hide,7,8
+96,6098,193,7,3,Expelliarmus!,1,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Theft of a Thief,7,10
+97,6153,194,70,3,Try Finite Incantatem.  Of course if something's gone wrong with an Atmospheric Charm --,1,21,Finite,General Counter-Spell,Terminates all spell effects,Red,Ministry Interior,7,11
+98,6156,194,70,2,"Finite Incantatem, okay.  And if that doesn't work...?",1,21,Finite,General Counter-Spell,Terminates all spell effects,Red,Ministry Interior,7,11
+99,6166,194,70,1,Accio locket.,1,1,Accio,Summoning Charm,Summons an object,,Ministry Interior,7,11
+100,6197,194,70,1,"You're lying.  And one mustn't tell lies, Dolores... Stupefy!",1,58,Stupefy,Stunning Spell,Knocks out target,Red,Ministry Interior,7,11
+101,6198,194,70,1,Expecto PATRONUM!,1,18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,Ministry Interior,7,11
+102,6199,194,70,3,Relashio!,1,48,Relashio,Revulsion Jinx,Forces target to let go,Purple,Ministry Interior,7,11
+103,6212,195,74,1,Accio Dittany.,1,1,Accio,Summoning Charm,Summons an object,,Forest Fugitives,7,12
+104,6220,195,74,3,Salvio Hexia... Protego Totalum...,1,55,Salvio hexia,Salvio hexia,Hex deflection,Haze,Forest Fugitives,7,12
+105,6220,195,74,3,Salvio Hexia... Protego Totalum...,1,55,Salvio hexia,Salvio hexia,Hex deflection,Haze,Forest Fugitives,7,12
+106,6224,195,74,3,Repello Muggletum... Muffliato...,1,34,Muffliato,Muffliato Charm,Conceals sound,,Forest Fugitives,7,12
+107,6224,195,74,3,Repello Muggletum... Muffliato...,1,34,Muffliato,Muffliato Charm,Conceals sound,,Forest Fugitives,7,12
+108,6246,195,74,1,Dissendium!,1,15,Dissendium,Dissendium,Reveals secret passages,,Forest Fugitives,7,12
+109,6247,195,74,3,Incendio!,1,27,Incendio,Fire-Making Spell,Conjures flames,Orange,Forest Fugitives,7,12
+110,6248,195,74,1,Expulso!,1,20,Expulso,Expulso Curse,Blows things up,Blue,Forest Fugitives,7,12
+111,6249,195,74,3,Confringo!,1,12,Confringo,Blasting Curse,Explosion,Fiery Orange,Forest Fugitives,7,12
+112,6352,198,74,1,Salvio Hexia... Protego Totalum...,1,55,Salvio hexia,Salvio hexia,Hex deflection,Haze,Clues Revealed,7,15
+113,6352,198,74,1,Salvio Hexia... Protego Totalum...,1,55,Salvio hexia,Salvio hexia,Hex deflection,Haze,Clues Revealed,7,15
+114,6382,199,9,3,Lumos.,1,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,Godric's Hollow,7,16
+115,6412,200,9,1,Lumos.,1,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,Bathilda's Secret,7,17
+116,6417,200,9,3,Confringo!,1,12,Confringo,Blasting Curse,Explosion,Fiery Orange,Bathilda's Secret,7,17
+117,6459,201,68,1,Lumos! Accio Sword.,1,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,Sword of Gryffindor,7,18
+118,6459,201,68,1,Lumos! Accio Sword.,1,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,Sword of Gryffindor,7,18
+119,6460,201,68,1,Diffindo.,1,14,Diffindo,Severing Charm,Cuts objects,Light green,Sword of Gryffindor,7,18
+120,6538,202,68,1,Engorgio.,1,16,Engorgio,Engorgement Charm,Causes swelling,Icy blue,Lighting the Way Back,7,19
+121,6540,202,68,1,Reducio!,1,47,Reducio,Shrinking Charm,Shrinks target,Purple,Lighting the Way Back,7,19
+122,6720,207,13,1,Stupefy.,1,58,Stupefy,Stunning Spell,Knocks out target,Red,Dobby Has No Master,7,24
+123,6722,207,13,1,Stupefy!,1,58,Stupefy,Stunning Spell,Knocks out target,Red,Dobby Has No Master,7,24
+124,6850,212,2,1,Imperio.,1,25,Imperio,Imperius Curse,Total control over the victim,,Gringotts,8,4
+125,6869,212,2,2,Imperio!,1,25,Imperio,Imperius Curse,Total control over the victim,,Gringotts,8,4
+126,6880,212,2,1,Lumos !,1,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,Gringotts,8,4
+127,6881,212,2,2,Lumos !,1,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,Gringotts,8,4
+128,6882,212,2,3,Lumos !,1,31,Lumos,Wand-Lighting Charm,Illuminates the wand tip,White,Gringotts,8,4
+129,6906,214,2,3,Relashio!,1,48,Relashio,Revulsion Jinx,Forces target to let go,Purple,Exit the Dragon,8,6
+130,6940,215,21,1,Expecto Patronum!,1,18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,Final Hiding Place,8,7
+131,7048,219,66,166,Protego Maxima... Finato Duri... Repello Inimicum...,1,45,Protego Maxima,Protego Maxima,Summons a large protective barrier,White,Duty To Our School,8,11
+132,7048,219,66,166,Protego Maxima... Finato Duri... Repello Inimicum...,1,45,Protego Maxima,Protego Maxima,Summons a large protective barrier,White,Duty To Our School,8,11
+133,7160,223,55,99,Avada Kedavra!,1,7,Avada Kedavra,Killing Curse,Instantaneous death,Green,Fiendfyre,8,15
+134,7161,223,55,1,Expelliarmus!,1,19,Expelliarmus,Disarming Charm,Disarms an opponent,Scarlet,Fiendfyre,8,15
+135,7273,225,48,6,Expecto Patronum!,1,18,Expecto Patronum,Patronus Charm,Conjures a spirit guardian,Silver,Your Mother's Eyes,8,17
+136,7396,231,66,1,Confringo!,1,12,Confringo,Blasting Curse,Explosion,Fiery Orange,Not Over,8,23
+137,7406,232,66,1,Confringo!,1,12,Confringo,Blasting Curse,Explosion,Fiery Orange,The Wand's Choice,8,24
