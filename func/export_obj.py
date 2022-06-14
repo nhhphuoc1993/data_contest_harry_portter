@@ -46,7 +46,7 @@ def export_chart_to_html(fig, height, path_to_filename, chart_id, chart_title, d
                     full_html=False, 
                     include_plotlyjs='cdn',
                     default_height=height if height else '100%',
-                    div_id=chart_id
+                    div_id="chart_id_{}".format(chart_id)
                 ))
     # Casting the file to a string to extract the value
     html = str(a)
