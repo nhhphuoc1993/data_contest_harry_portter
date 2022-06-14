@@ -1,23 +1,25 @@
 from airium import Airium
 
 def render_list_html(a: Airium, imput_list):
-    with a.ul():
-        for item in imput_list:
-            with a.li():
-                if type(item) is dict:
-                    # Get first key-value pair of the dictionary
-                    first_pair = list(item.items())[0]
-                    a(first_pair[0])
-                    value = first_pair[1]
-                    if type(value) is list:
-                        render_list_html(a, value)
-                    else:
-                        a(value)
-                else:
-                    a(item)
+    if imput_list and type(imput_list) is list:
+        with a.ul():
+            for item in imput_list:
+                if item:
+                    with a.li():
+                        if type(item) is dict:
+                            # Get first key-value pair of the dictionary
+                            first_pair = list(item.items())[0]
+                            a(first_pair[0])
+                            value = first_pair[1]
+                            if type(value) is list:
+                                render_list_html(a, value)
+                            else:
+                                a(value)
+                        else:
+                            a(item)
     return a
 
-def export_chart_to_html(fig, height, path_to_filename, chart_title, describtion_list, insight_list):
+def export_chart_to_html(fig, height, path_to_filename, chart_id, chart_title, describtion_list, insight_list):
     fig.update_layout(
         title_text='',
         margin=dict(l=50, r=50, t=50, b=50, pad=4)
@@ -44,7 +46,7 @@ def export_chart_to_html(fig, height, path_to_filename, chart_title, describtion
                     full_html=False, 
                     include_plotlyjs='cdn',
                     default_height=height if height else '100%',
-                    div_id='plotly_chart'
+                    div_id=chart_id
                 ))
     # Casting the file to a string to extract the value
     html = str(a)
